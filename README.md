@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 Run:
 
-python toy_compiler.py
+python mini_compiler.py
 
 Then enter an expression when prompted.
 
